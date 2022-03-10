@@ -1,0 +1,16 @@
+{
+    "auth":
+    {
+        "screen_name": "yaelahben",
+        "CONSUMER_KEY": "BZeMmMLceVf3Y6Zt97JBRjc2f",
+        "CONSUMER_SECRET": "cV3QAk9M8fD4OpNy5XnZ0VYOYdK2rT5zkMoNQs3A0T5SUN8M7i",
+        "ACCESS_TOKEN": "1252701490705301505-j2Wphb4vtsHO8IT9KITwWXKIy5n3n1",
+        "ACCESS_SECRET": "ax4B4FF0U3kXrDgpvGSudXYVL7B9JcklT8Jz3Gv9ssKXY"
+    },
+    "lang": "Searh your language here: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes (e.g. es)",
+    "results_search": 5,
+    "blacklisted": ["Put", "words", "or phrases that", "you want to", "blacklist", "in", "here"],
+    "keywords":["mutualan", "jbjb"],
+    "whitelisted_accounts": ["Put twitter accounts that you don't wnat to unfollow in here, like this: ", "drake", "NFL", "twitterU"],
+    "messages":["Put and seperate your messages in here like this", "hi, check out my feed", "I LOVE your tweets!"]
+}
